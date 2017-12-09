@@ -68,6 +68,14 @@ void setup() {
   // The larger the spreading factor the greater the range but slower data rate
   // Send and receive radios need to be set the same
   LoRa.setSpreadingFactor(12); // ranges from 6-12, default 7 see API docs
+
+  // Change the transmit power of the radio
+  // Default is LoRa.setTxPower(17, PA_OUTPUT_PA_BOOST_PIN);
+  // Most modules have the PA output pin connected to PA_BOOST, gain 2-17
+  // TTGO and some modules are connected to RFO_HF, gain 0-14
+  // If your receiver RSSI is very weak and little affected by a better antenna, change this!
+  LoRa.setTxPower(14, PA_OUTPUT_RFO_PIN);
+  
 }
 
 void loop() {
