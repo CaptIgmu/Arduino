@@ -4,7 +4,7 @@ These interesting boards are ESP32-DOWDQ6 Revision 1 based, 4MByte Flash with Lo
 
 #### 1. From the variants folder here, copy and paste the ttgo_lora_32 folder into your system variants folder, usually located at ../Arduino/hardware/expressif/esp32/variants. You now have access to your customized pins_arduino.h file for the TTGO board.
 
-#### 2. In a text editor, copy and paste the contents of the boards.txt file here into the _Top_ or _Bottom_ of the system boards.txt file and save it, usually located at ../Arduino/hardware/expressif/esp32/  Remember, you are trying to _add_ a new entry to a long list of board types.
+#### 2. In a text editor, copy and paste the contents of the boards.txt file here into the _Top_ or _Bottom_ of the system boards.txt file and save it, usually located at ../Arduino/hardware/expressif/esp32/. Remember, you are trying to _add_ a new entry to a long list of board types.
 
 #### 3. From within the Arduino IDE, select the Tools menu --> Board --> pick the _TtGo ESP32 LoRa-OLED_ item from the ESP32 Arduino choices. Now adjust the Flash Frequency:, Upload Speed:, Core Debug Level:, and Port: as needed.
 
@@ -16,6 +16,8 @@ OK. You should be ready to roll and explore these powerful and affordable boards
 [Semtech SX1276 LoRa radio chip info](http://www.semtech.com/apps/product.php?pn=SX1276)
 
 [Lily GO TTGO LoRa32 OLED board info](http://www.lilygo.cn/down_view.aspx?TypeId=11&Id=78&Fid=t14:11:14)
+
+[Lily GO resources on GitHub](https://github.com/LilyGO/LORA-ESP32-OLED)
 
 [This article about a similar Heltec board is very helpful](https://robotzero.one/heltec-wifi-kit-32/)
 
