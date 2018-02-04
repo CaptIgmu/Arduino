@@ -15,7 +15,7 @@ OK. You should be ready to roll and explore these powerful and affordable boards
 Update: The version 2.0 board is ESP32-PICO-D4 based with CP2104 USB, MicroSD card slot and battery power switch. The Wi-Fi and LoRa layouts have also been redesigned. This looks much improved but the pinouts have changed!
 
 ## References
-[Semtech SX1276 LoRa radio chip info](http://www.semtech.com/apps/product.php?pn=SX1276)
+[Semtech SX1276 LoRa radio chip info](https://www.semtech.com/products/wireless-rf/lora-transceivers/SX1276)
 
 [Lily GO TTGO LoRa32 OLED board info](http://www.lilygo.cn/down_view.aspx?TypeId=11&Id=78&Fid=t14:11:14)
 
