@@ -6,7 +6,9 @@ These interesting boards are ESP32-DOWDQ6 Revision 1 based, 4MByte Flash with Lo
 
 #### 2. From within the Arduino IDE, select the Sketch menu --> Include Library --> Manage Libraries to install the U8g2 and LoRa libraries.
 
+These boards continue to evolve with re-designs of wifi/LoRa radio sections, added features, increasing prices and changes in pinouts!
 
+![image](/images/TTGO_LoRa32_Versions.jpg)
 
 ## References
 [Semtech SX1276 LoRa radio chip info](https://www.semtech.com/products/wireless-rf/lora-transceivers/SX1276)
