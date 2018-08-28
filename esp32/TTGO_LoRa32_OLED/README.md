@@ -1,6 +1,6 @@
 # Resources for TTGO LoRa32 OLED Board V1.x
 
-These interesting boards are ESP32-DOWDQ6 Revision 1 based, 4MByte Flash with LoRa 868/915 MHz radio and 0.96" 128x64 SSD1306 monochrome OLED display. The key to getting the OLED display running is using software I2C and I would recommend the U8g2/U8x8 graphics library. See the examples. With [PR #1663](https://github.com/espressif/arduino-esp32/pull/1663), this board description has been merged into  espressif/arduino-esp32 variants and boards.txt. To setup in Arduino:
+These interesting boards are ESP32-DOWDQ6 Revision 1 based, 4MByte Flash with LoRa 868/915 MHz radio and 0.96" 128x64 SSD1306 monochrome OLED display. The key to getting the OLED display running is using software I2C and I would recommend the U8g2/U8x8 graphics library. See the _examples_. With [PR #1663](https://github.com/espressif/arduino-esp32/pull/1663), this board description has been merged into  espressif/arduino-esp32 variants and boards.txt. To setup in Arduino:
 
 #### 1. From within the Arduino IDE, select the Tools menu --> Board --> pick the _TTGO LoRa32-OLED V1_  item from the ESP32 Arduino choices. Now adjust the Flash Frequency:, Upload Speed:, Core Debug Level:, and Port: as needed.
 
@@ -8,12 +8,12 @@ These interesting boards are ESP32-DOWDQ6 Revision 1 based, 4MByte Flash with Lo
 
 These boards continue to evolve with re-designs of wifi/LoRa radio sections, added features, increasing prices and changes in pinouts!
 
-![image](/images/TTGO_LoRa32_Versions.jpg)
+![image](images/TTGO_LoRa32_Versions.jpg)
 
 ## References
 [Semtech SX1276 LoRa radio chip info](https://www.semtech.com/products/wireless-rf/lora-transceivers/SX1276)
 
-[TTGO BBS](http://ttgobbs.com/)
+[TTGO BBS Forums](http://ttgobbs.com/forumdisplay.php?fid=2)
 
 [LilyGO TTGO LoRa32 OLED board info](http://www.lilygo.cn/down_view.aspx?TypeId=11&Id=78&Fid=t14:11:14)
 
