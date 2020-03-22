@@ -43,6 +43,8 @@ These boards continue to evolve with re-designs of wifi/LoRa radio sections, add
 
 [Affordable TUMPA JTAG Interface Board from DIYGADGET](https://www.diygadget.com/tiao-usb-multi-protocol-adapter-jtag-spi-i2c-serial?search=tumpa&category_id=0)
 
+[Affordable Sipeed USB-JTAG/TTL Debugger](https://www.aliexpress.com/item/4000562825779.html?spm=a2g0s.8937460.0.0.54502e0epF2lH4)
+
 [TTGO LORA32 V1.x boards available from FaceToFace on AliExpress](https://www.aliexpress.com/item/2pcs-of-TTGO-LORA32-868-915Mhz-SX1276-ESP32-Oled-display-Bluetooth-WIFI-Lora-development-board/32841743946.html?spm=2114.search0104.3.3.42031d17xNO5cM&ws_ab_test=searchweb0_0,searchweb201602_4_10152_10065_10151_10344_10068_10130_10342_10547_10343_10546_10340_10341_10548_5724715_315_10545_10696_10084_531_5724015_10083_10618_5724315_10307_5724215_5724115_10059_100031_5725015_10103_5724915_10624_10623_10622_10621_10620,searchweb201603_2,ppcSwitch_5&algo_expid=0e6b2c05-6981-4857-b225-8243e37e60b5-0&algo_pvid=0e6b2c05-6981-4857-b225-8243e37e60b5&priceBeautifyAB=0)
 
 [TTGO LORA32 V2.0 boards available from LilyGO on AliExpress](https://www.aliexpress.com/item/TTGO-LORA32-V2-0-433-868-915Mhz-ESP32-LoRa-OLED-0-96-Inch-SD-Card-Blue/32846302183.html?spm=2114.10010108.1000023.12.4a1b577f9Lnans)
