@@ -13,8 +13,6 @@ These boards continue to evolve with re-designs of wifi/LoRa radio sections, add
 ## References
 [Semtech SX1276 LoRa radio chip info](https://www.semtech.com/products/wireless-rf/lora-transceivers/SX1276)
 
-[TTGO BBS Forums](http://ttgobbs.com/forumdisplay.php?fid=2)
-
 [LilyGO TTGO LoRa32 OLED board info](http://www.lilygo.cn/down_view.aspx?TypeId=11&Id=78&Fid=t14:11:14)
 
 [LilyGO resources on GitHub V1.x](https://github.com/LilyGO/LORA-ESP32-OLED)
@@ -43,7 +41,7 @@ These boards continue to evolve with re-designs of wifi/LoRa radio sections, add
 
 [Set up ESP32 JTAG-Debugging on Sloeber for Windows](https://onedrive.live.com/view.aspx?resid=4EF34D0924CECD08!105684&ithint=file%2cdocx&app=Word&authkey=!ACWnebcSvI14a0w)
 
-[Affordable TUMPA JTAG Interface Board from DIYGADGET](https://www.diygadget.com/jtag-cables-and-microcontroller-programmers/114-tiao-usb-multi-protocol-adapter-jtag-spi-i2c-serial.html)
+[Affordable TUMPA JTAG Interface Board from DIYGADGET](https://www.diygadget.com/tiao-usb-multi-protocol-adapter-jtag-spi-i2c-serial?search=tumpa&category_id=0)
 
 [TTGO LORA32 V1.x boards available from FaceToFace on AliExpress](https://www.aliexpress.com/item/2pcs-of-TTGO-LORA32-868-915Mhz-SX1276-ESP32-Oled-display-Bluetooth-WIFI-Lora-development-board/32841743946.html?spm=2114.search0104.3.3.42031d17xNO5cM&ws_ab_test=searchweb0_0,searchweb201602_4_10152_10065_10151_10344_10068_10130_10342_10547_10343_10546_10340_10341_10548_5724715_315_10545_10696_10084_531_5724015_10083_10618_5724315_10307_5724215_5724115_10059_100031_5725015_10103_5724915_10624_10623_10622_10621_10620,searchweb201603_2,ppcSwitch_5&algo_expid=0e6b2c05-6981-4857-b225-8243e37e60b5-0&algo_pvid=0e6b2c05-6981-4857-b225-8243e37e60b5&priceBeautifyAB=0)
 
